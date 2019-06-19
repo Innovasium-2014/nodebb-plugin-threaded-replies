@@ -1,0 +1,15 @@
+{
+	"id": "nodebb-plugin-threaded-replies",
+	"url": "https://github.com/Innovasium-2014/nodebb-plugin-threaded-replies",
+	"library": "./library.js",
+	"hooks": [
+		{
+			"hook": "filter:config.get", "method": "filterConfigGet"
+		}
+	],
+	"staticDirs": {},
+	"less": [],
+	"scripts": [],
+	"acpScripts": [],
+	"templates": ""
+}

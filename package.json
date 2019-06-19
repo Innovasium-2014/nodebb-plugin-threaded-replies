@@ -1,0 +1,22 @@
+{
+  "name": "nodebb-plugin-threaded-replies",
+  "version": "0.1.0",
+  "description": "A NodeBB plugin. Used to enabled threaded replies.",
+  "main": "library.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Innovasium-2014/nodebb-plugin-threaded-replies.git"
+  },
+  "keywords": [
+    "nodebb"
+  ],
+  "author": "Innovasium Digital",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Innovasium-2014/nodebb-plugin-threaded-replies/issues"
+  },
+  "homepage": "https://github.com/Innovasium-2014/nodebb-plugin-threaded-replies#readme",
+  "nbbpm": {
+    "compatibility": "^1.12.2"
+  }
+}
